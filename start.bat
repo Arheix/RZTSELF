@@ -1,0 +1,2 @@
+python rztself.py
+pause
